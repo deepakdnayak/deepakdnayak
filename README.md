@@ -60,7 +60,7 @@
 ---
 
 ## 🔥 LeetCode Streak
-![LeetCode Streak](https://leetcode-stats.vercel.app/api?username=deepakdnayak2004&theme=dark)
+![LeetCode Server Connection TimeOut](https://leetcode-stats.vercel.app/api?username=deepakdnayak2004&theme=dark)
 
 ---
 
